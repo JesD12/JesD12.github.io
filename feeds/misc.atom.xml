@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Image Analysis with Jes - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2020-08-10T00:00:00+02:00</updated><entry><title>First!</title><link href="/first.html" rel="alternate"></link><published>2020-08-10T00:00:00+02:00</published><updated>2020-08-10T00:00:00+02:00</updated><author><name>Jes Dreier</name></author><id>tag:None,2020-08-10:/first.html</id><content type="html">&lt;h1&gt;We might be on to somethin&lt;/h1&gt;
+&lt;p&gt;This is the first post. This only just proves that I have set up the scaffold for my new blog. More is to come - 
+hopefully&lt;/p&gt;</content><category term="misc"></category></entry></feed>
