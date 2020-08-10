@@ -8,4 +8,4 @@ It wouldn't all be python, but we will see what the future brings us.
 
 
 
-[my_sweet_photo]: {static}/images/jes_the_pirat.jpg
+[my__photo_pirate]: {static}/images/jes_the_pirat.jpg
